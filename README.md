@@ -23,7 +23,7 @@ This project is an end-to-end Power BI report analyzing 4 years of retail sales 
 
 ## 📸 Screenshots
 ![Executive Summary](Superstore_Sales_Executive_Summary.png)
-![Product Deep Dive](Product_Deep_Dive.png)
+![Product Deep Dive](Superstore_Sales_Product_Deepdive.png)
 
 ## 📂 Repository Contents
 *   `Superstore_PL300_Portfolio.pbix` - The complete Power BI file.
