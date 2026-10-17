@@ -22,7 +22,7 @@ This project is an end-to-end Power BI report analyzing 4 years of retail sales 
 *   **UI/UX Design:** Implemented conditional formatting, custom tooltips, and a clean, grid-aligned layout for self-service BI.
 
 ## 📸 Screenshots
-![Executive Summary](Executive_Summary.png)
+![Executive Summary](Superstore_Sales_Executive_Summary.png)
 ![Product Deep Dive](Product_Deep_Dive.png)
 
 ## 📂 Repository Contents
